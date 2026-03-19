@@ -1,3 +1,3 @@
-# data-camp-github-spring-2026
+# example_repo
 
 Add a new line right here, just type anything!
